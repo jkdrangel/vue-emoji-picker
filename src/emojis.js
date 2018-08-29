@@ -1,5 +1,5 @@
 export default {
-    'Frequently used': {
+    'Frequently': {
         'thumbs_up': '👍',
         '-1': '👎',
         'sob': '😭',
@@ -7,6 +7,8 @@ export default {
         'neutral_face': '😐',
         'blush': '😊',
         'heart_eyes': '😍',
+        'smile': '😄',
+        'gift_heart': '💝',
     },
     'People': {
         'smile': '😄',
